@@ -2,7 +2,7 @@
 --              P A N E L   M X 4
 --          VERSIÓN LIMPIA PARA TU EXPERIENCIA
 --
--- KEY: 2026
+-- KEY: 2020
 -- SIN FLY
 -- SIN MENÚ DE COLORES
 --========================================================
